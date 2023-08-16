@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactLol/static/css/main.60f828b1.css",
+    "main.js": "/ReactLol/static/js/main.b33e0805.js",
+    "static/js/787.7fe6f563.chunk.js": "/ReactLol/static/js/787.7fe6f563.chunk.js",
+    "index.html": "/ReactLol/index.html",
+    "main.60f828b1.css.map": "/ReactLol/static/css/main.60f828b1.css.map",
+    "main.b33e0805.js.map": "/ReactLol/static/js/main.b33e0805.js.map",
+    "787.7fe6f563.chunk.js.map": "/ReactLol/static/js/787.7fe6f563.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60f828b1.css",
+    "static/js/main.b33e0805.js"
+  ]
+}
