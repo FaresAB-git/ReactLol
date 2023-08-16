@@ -1,0 +1,39 @@
+ul{
+    display: flex;
+    align-items: center; /* Centrer verticalement */
+    padding-left: 10px;
+    margin-bottom: 15px;
+    height: 30px;
+    background-color:rgb(46, 129, 224);
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    border-right: 1px solid #282c34;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:rgb(46, 129, 224);
+    text-align: center;
+    transition: background-color 0.3s; /* Ajout d'une transition */
+}
+
+li:hover {
+    background-color: #282c34; /* Couleur au survol */
+}
+
+.Link{
+    display: inline-block;
+    border-right: 1px solid #282c34;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: aliceblue;
+    text-decoration: none;
+    background-color:rgb(46, 129, 224);
+    text-align: center;
+    transition: background-color 0.3s; /* Ajout d'une transition */
+}
+
+.Link:hover {
+    background-color: #282c34; /* Couleur au survol */
+}
