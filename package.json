@@ -1,5 +1,6 @@
 {
-  "homepage": "https://FaresAB-Git.github.io/ReactLol",
+  "homepage": "https://FaresAB-git.github.io/Reactlol",
+  "proxy":"http://localhost:3000",
   "name": "reactlol",
   "version": "0.1.0",
   "private": true,
