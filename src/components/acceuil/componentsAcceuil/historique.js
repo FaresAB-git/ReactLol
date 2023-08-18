@@ -11,7 +11,7 @@ import BarInfoJoueur from './barInfoJoueur';
 
 
 const Historique = () => {   
-                            const api_key ="RGAPI-156d2faa-f015-4dbe-9aed-17f23c64b1e5"
+                            const api_key ="RGAPI-5d93be63-18af-4120-93cd-6d48388c3d70"
                             
                             const [joueurRecheche, setJoueurRecherche] = useState("");
                             const [infoJoueur, setInfoJoueur] = useState("");
