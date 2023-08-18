@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Reactlol/static/css/main.60f828b1.css",
-    "main.js": "/Reactlol/static/js/main.ea153866.js",
+    "main.js": "/Reactlol/static/js/main.13f37eaf.js",
     "static/js/787.7fe6f563.chunk.js": "/Reactlol/static/js/787.7fe6f563.chunk.js",
     "index.html": "/Reactlol/index.html",
     "main.60f828b1.css.map": "/Reactlol/static/css/main.60f828b1.css.map",
-    "main.ea153866.js.map": "/Reactlol/static/js/main.ea153866.js.map",
+    "main.13f37eaf.js.map": "/Reactlol/static/js/main.13f37eaf.js.map",
     "787.7fe6f563.chunk.js.map": "/Reactlol/static/js/787.7fe6f563.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.60f828b1.css",
-    "static/js/main.ea153866.js"
+    "static/js/main.13f37eaf.js"
   ]
 }
